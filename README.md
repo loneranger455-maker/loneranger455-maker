@@ -21,4 +21,4 @@
 
 <p style="margin-top:50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loneranger455-maker&theme=radical&show_icons=true)" alt="loneranger455-maker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loneranger455-maker&" alt="loneranger455-maker" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=loneranger455-maker&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
