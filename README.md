@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loneranger</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loneranger455-maker" alt="loneranger455-maker" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loneranger455-maker&label=Profile%20views&color=0e75b6&style=flat" alt="loneranger455-maker" /> </p>
 
 - 🌱 I’m currently learning **web development**
 
@@ -20,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loneranger455-maker&show_icons=true&locale=en&layout=compact" alt="loneranger455-maker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loneranger455-maker&show_icons=true&locale=en" alt="loneranger455-maker" /></p>
-
