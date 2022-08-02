@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loneranger455-maker&show_icons=true&locale=en&layout=compact" alt="loneranger455-maker" /></p>
 
-<p style="margin-top:50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loneranger455-maker&show_icons=true&locale=en" alt="loneranger455-maker" /></p>
+<p style="margin-top:50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" alt="loneranger455-maker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loneranger455-maker&" alt="loneranger455-maker" /></p>
