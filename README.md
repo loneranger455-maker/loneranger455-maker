@@ -20,5 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loneranger455-maker&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></p>
 
 <p style="margin-top:50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loneranger455-maker&theme=radical&show_icons=true)" alt="loneranger455-maker" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loneranger455-maker&label=Profile%20views&color=0e75b6&style=flat" alt="loneranger455-maker" /> </p>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=loneranger455-maker&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
