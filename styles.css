@@ -1,0 +1,17 @@
+ .image-container {
+            display: inline-block;
+            margin: 4px;
+            padding: 6px;
+            border-radius: 20%; 
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            background: radial-gradient(circle, #ffffff, #e9eff3);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .title{
+            font-size: medium;
+            font-weight: bold;
+        }
